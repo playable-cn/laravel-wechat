@@ -1,9 +1,13 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "playable-cn/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "playable-cn",
+            "email": "developer@playable.cn"
+        },
         {
             "name": "overtrue",
             "email": "anzhengchao@gmail.com"
@@ -11,7 +15,7 @@
     ],
     "require": {
         "illuminate/container": "^5.1 || ^6.0 || ^7.0 || ^8.0",
-        "overtrue/wechat": "^5.0"
+        "playable-cn/wechat": "^5.0"
     },
     "require-dev": {
         "laravel/framework": "^8.5",

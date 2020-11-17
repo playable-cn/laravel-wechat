@@ -15,7 +15,7 @@
     ],
     "require": {
         "illuminate/container": "^5.1 || ^6.0 || ^7.0 || ^8.0",
-        "playable-cn/wechat": "^5.0"
+        "playable-cn/wechat": "^5.1.5"
     },
     "require-dev": {
         "laravel/framework": "^8.5",
